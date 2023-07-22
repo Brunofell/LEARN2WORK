@@ -1,0 +1,28 @@
+#custom-header {
+    background-color: black;
+}
+
+#text-header {
+    color: whitesmoke;
+    transition: .3s;
+}
+
+#text-header:hover{
+    color:  rgb(142, 79, 201);
+    font-size: 1.2rem;
+}
+
+#logo {
+    color: whitesmoke;
+}
+
+#custom-btn {
+    margin: .5rem;
+    transition: .3s;
+}
+
+#custom-btn:hover {
+    background-color: rgb(142, 79, 201);
+    color: black;
+    border: 0;
+}

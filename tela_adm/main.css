@@ -1,0 +1,38 @@
+
+body {
+    height: 100vh;
+}
+
+div.jumbotron {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#caixa {
+    margin-top: 1.5rem;
+    background-image: url(/learn2work/img/fundo3.png);
+    background-size: cover;
+    transition: 0.5s;
+}
+
+#caixa:hover {
+    cursor: pointer;
+    background-image: url(/learn2work/img/fundo4.png);
+}
+
+#footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+}
+
+#barra {
+    width: 3.2rem;
+    background-color: whitesmoke;
+    background-image: url(/learn2work/img/fundo3.png);
+    border: black;
+    transition:0.3s
+}

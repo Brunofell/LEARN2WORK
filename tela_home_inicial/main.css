@@ -1,0 +1,29 @@
+
+
+#custom-sobre {
+    margin-top: 3rem;
+}
+
+main {
+    color: whitesmoke;
+}
+
+#container-icons {
+    display: flex;
+}
+#custom-video-card {
+    background-image: url(/learn2work/img/fundo1.png);
+    color: whitesmoke;
+}
+
+#custom-container-plan {
+    background-image: url(/learn2work/img/fundo1.png);
+    color: whitesmoke;
+    border-color: whitesmoke;
+}
+
+#customizar-card {
+    background-image: url(/learn2work/img/fundo1.png);
+    color: whitesmoke;
+    border: 1rem black;
+}
